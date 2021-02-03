@@ -1,5 +1,5 @@
 # To-do app
-An to-do app created in react.js
+An to-do app created with react.js
 
 # Getting Started with Create React App
 
